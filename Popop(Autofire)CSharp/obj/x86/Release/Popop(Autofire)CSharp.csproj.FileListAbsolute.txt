@@ -1,0 +1,8 @@
+C:\Users\Николай\Desktop\Popop(Autofire)CSharp\Popop(Autofire)CSharp\bin\Release\Popop(Autofire)CSharp.exe
+C:\Users\Николай\Desktop\Popop(Autofire)CSharp\Popop(Autofire)CSharp\bin\Release\Popop(Autofire)CSharp.pdb
+C:\Users\Николай\Desktop\Popop(Autofire)CSharp\Popop(Autofire)CSharp\obj\x86\Release\Popop_Autofire_CSharp.Form1.resources
+C:\Users\Николай\Desktop\Popop(Autofire)CSharp\Popop(Autofire)CSharp\obj\x86\Release\Popop_Autofire_CSharp.Properties.Resources.resources
+C:\Users\Николай\Desktop\Popop(Autofire)CSharp\Popop(Autofire)CSharp\obj\x86\Release\Popop(Autofire)CSharp.csproj.GenerateResource.Cache
+C:\Users\Николай\Desktop\Popop(Autofire)CSharp\Popop(Autofire)CSharp\obj\x86\Release\Popop(Autofire)CSharp.exe
+C:\Users\Николай\Desktop\Popop(Autofire)CSharp\Popop(Autofire)CSharp\obj\x86\Release\Popop(Autofire)CSharp.pdb
+C:\Users\Николай\Desktop\Popop(Autofire)CSharp\Popop(Autofire)CSharp\obj\x86\Release\Popop(Autofire)CSharp.csprojResolveAssemblyReference.cache
